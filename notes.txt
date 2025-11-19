@@ -1,0 +1,12 @@
+
+
+ADMIN PANEL LOGIN:
+
+
+>>Enter the following details in Login for Admin Panel.
+
+Username: admin@admin.com
+Password: password
+ 
+DATABASE NAME: themes
+
